@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @resurgence72
 - 👀 I’m interested in Monitoring
-- 🌱 I’m currently reading Prometheus Stack and Nightingale Stack source code
+- 🌱 Python && Golang
 - 📫 email: wuhaoyang1105@qq.com
