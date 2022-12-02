@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @resurgence72
 - 👀 I’m interested in Monitoring
 - 🌱 Python && Golang
-- 📫 email: wuhaoyang1105@qq.com
+- 📫 Email: wuhaoyang1105@qq.com
