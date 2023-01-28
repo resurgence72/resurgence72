@@ -5,7 +5,7 @@
 
 # resurgence72
 
-[![resurgence72 GitHub stats](https://github-readme-stats.vercel.app/api?username=resurgence72&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![resurgence72 GitHub stats](https://github-readme-stats.vercel.app/api?username=resurgence72&count_private=true&show_icons=true&theme=tokyonight&include_all_commits)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 我参与贡献的项目
 
