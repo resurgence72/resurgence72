@@ -25,6 +25,9 @@
 <a href="https://github.com/resurgence72/simple_inverted_index">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=resurgence72&repo=simple_inverted_index&theme=buefy" />
 </a>
+<a href="https://github.com/resurgence72/prome_dynamic_shard">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=resurgence72&repo=prome_dynamic_shard&theme=buefy" />
+</a>
 
 
 ## 联系我
