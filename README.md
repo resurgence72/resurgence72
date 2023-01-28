@@ -20,10 +20,10 @@
 
 ## 我的开源项目
 <a href="https://github.com/resurgence72/ProberMesh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=resurgence72&repo=ProberMesh&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=resurgence72&repo=ProberMesh&theme=buefy" />
 </a>
 <a href="https://github.com/resurgence72/DHACron-WebUI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=resurgence72&repo=DHACron-WebUI&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=resurgence72&repo=DHACron-WebUI&theme=buefy" />
 </a>
 
 
