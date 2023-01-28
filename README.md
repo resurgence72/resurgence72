@@ -5,11 +5,12 @@
 
 # resurgence72
 <a href="https://github.com/resurgence72">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=resurgence72&count_private=true&show_icons=true&theme=tokyonight&include_all_commits" />
-</a>
-<a href="https://github.com/resurgence72">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=resurgence72&hide=javascript,html,css&theme=tokyonight&layout=compact" />
 </a>
+
+| <a href="https://github.com/resurgence72"><img align="center" src="https://github-readme-stats.vercel.app/api?username=resurgence72&count_private=true&show_icons=true&theme=tokyonight&include_all_commits" alt="resurgence72's github stats" /></a> | <a href="https://github.com/resurgence72"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=resurgence72&hide=javascript,html,css&theme=tokyonight&layout=compact" /></a> |
+| ------------- | ------------- |
+
 
 ## 我参与贡献的项目
 
