@@ -7,6 +7,8 @@
 
 [![resurgence72 GitHub stats](https://github-readme-stats.vercel.app/api?username=resurgence72&count_private=true&show_icons=true&theme=tokyonight&include_all_commits)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=resurgence72&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 我参与贡献的项目
 
 🌱  [nightingale](https://github.com/ccfos/nightingale)
