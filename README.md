@@ -4,7 +4,7 @@
 - 📫 Email: wuhaoyang1105@qq.com
 
 # resurgence72
-| <a href="https://github.com/resurgence72"><img align="center" src="https://github-readme-stats.vercel.app/api?username=resurgence72&count_private=true&show_icons=true&theme=tokyonight&include_all_commits&hide_border=true" alt="resurgence72's github stats" /></a> | <a href="https://github.com/resurgence72"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=resurgence72&hide=javascript,html,css&theme=tokyonight&layout=compact&hide_border=true" /></a> |
+| <a href="https://github.com/resurgence72"><img align="center" src="https://github-readme-stats.vercel.app/api?username=resurgence72&count_private=true&show_icons=true&theme=buefy&include_all_commits&hide_border=true" alt="resurgence72's github stats" /></a> | <a href="https://github.com/resurgence72"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=resurgence72&hide=javascript,html,css&theme=buefy&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
