@@ -19,9 +19,12 @@
 
 
 ## 我的开源项目
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=resurgence72&repo=ProberMesh&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=resurgence72&repo=DHACron-WebUI&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/resurgence72">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=resurgence72&repo=ProberMesh&theme=cobalt" />
+</a>
+<a href="https://github.com/resurgence72">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=resurgence72&repo=DHACron-WebUI&theme=cobalt" />
+</a>
 
 
 ## 联系我
