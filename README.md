@@ -18,7 +18,7 @@
 🌱  [categraf](https://github.com/flashcatcloud/categraf)
 
 ## 我的开源项目
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=resurgence72&repo=ProberMesh)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=resurgence72&repo=ProberMesh&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 联系我
 
