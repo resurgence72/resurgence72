@@ -4,10 +4,12 @@
 - 📫 Email: wuhaoyang1105@qq.com
 
 # resurgence72
-
-[![resurgence72 GitHub stats](https://github-readme-stats.vercel.app/api?username=resurgence72&count_private=true&show_icons=true&theme=tokyonight&include_all_commits)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=resurgence72&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=resurgence72&count_private=true&show_icons=true&theme=tokyonight&include_all_commits" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=resurgence72&hide=javascript,html,css" />
+</a>
 
 ## 我参与贡献的项目
 
