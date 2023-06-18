@@ -34,7 +34,9 @@
 <a href="https://github.com/resurgence72/prom-metric-analyze">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=resurgence72&repo=prom-metric-analyze&theme=buefy" />
 </a>
-
+<a href="https://github.com/resurgence72/prom-stream-downsample">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=resurgence72&repo=prom-stream-downsample&theme=buefy" />
+</a>
 
 ## 联系我
 
