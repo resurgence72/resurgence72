@@ -19,24 +19,22 @@
 <a href="https://github.com/resurgence72/ProberMesh">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=resurgence72&repo=ProberMesh&theme=buefy" />
 </a>
+<a href="https://github.com/resurgence72/prom-stream-downsample">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=resurgence72&repo=prom-stream-downsample&theme=buefy" />
+</a>
 <a href="https://github.com/resurgence72/DHACron-WebUI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=resurgence72&repo=DHACron-WebUI&theme=buefy" />
-</a>
-<a href="https://github.com/resurgence72/simple_inverted_index">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=resurgence72&repo=simple_inverted_index&theme=buefy" />
 </a>
 <a href="https://github.com/resurgence72/prome_dynamic_shard">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=resurgence72&repo=prome_dynamic_shard&theme=buefy" />
 </a>
-<a href="https://github.com/resurgence72/prom-remote-write-shard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=resurgence72&repo=prom-remote-write-shard&theme=buefy" />
-</a>
 <a href="https://github.com/resurgence72/prom-metric-analyze">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=resurgence72&repo=prom-metric-analyze&theme=buefy" />
 </a>
-<a href="https://github.com/resurgence72/prom-stream-downsample">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=resurgence72&repo=prom-stream-downsample&theme=buefy" />
+<a href="https://github.com/resurgence72/prom-remote-write-shard">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=resurgence72&repo=prom-remote-write-shard&theme=buefy" />
 </a>
+
 
 ## 联系我
 
