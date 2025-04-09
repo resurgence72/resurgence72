@@ -14,6 +14,8 @@
 
 🌱  [categraf](https://github.com/flashcatcloud/categraf)
 
+🌱  [mcp-go](https://github.com/mark3labs/mcp-go)
+
 
 ## 我的开源项目
 <a href="https://github.com/resurgence72/ProberMesh">
