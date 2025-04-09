@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @resurgence72
-- 👀 I’m interested in Monitoring/Observability
+- 👀 I’m interested in Monitoring/Observability/AIOps
 - 🌱 Golang && Python
 - 📫 Email: wuhaoyang1105@qq.com
 
